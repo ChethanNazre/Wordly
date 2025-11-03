@@ -3,7 +3,7 @@
 
 # 🎮 Wordly – A Modern Spin on Wordle
 
-***Created by [Chethan Nazre S](https://github.com/ChethanNazreS)***
+***Created by [Chethan Nazre S](https://github.com/ChethanNazre)***
 *A React + TypeScript + Tailwind CSS reimagination of the classic word-guessing game that took the world by storm.*
 
 ---
