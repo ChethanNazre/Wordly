@@ -111,7 +111,7 @@ Then open **[http://localhost:3000](http://localhost:3000)** to play Wordly on y
 Hi, I’m **Chethan Nazre S** — a passionate **Full Stack Developer** and **AI & ML enthusiast** who loves blending **logic and design** to create intuitive digital experiences.
 
 You can find more of my work here:
-🔗 [GitHub Profile → ChethanNazreS](https://github.com/ChethanNazreS)
+🔗 [GitHub Profile → ChethanNazreS](https://github.com/ChethanNazre)
 
 ---
 
