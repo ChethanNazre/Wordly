@@ -62,5 +62,5 @@ export const WORDS = [
   "visit", "vital", "vocal", "voice", "waste", "watch", "water", "wheel",
   "where", "which", "while", "white", "whole", "whose", "woman", "women",
   "world", "worry", "worse", "worst", "worth", "would", "wound", "write",
-  "wrong", "wrote", "young", "youth", "zebra"
+  "wrong", "wrote", "young", "youth", "zebra","dirty","darts"
 ];
