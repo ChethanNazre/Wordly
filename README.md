@@ -81,13 +81,13 @@ Then open **[http://localhost:3000](http://localhost:3000)** to play Wordly on y
 
 ## ✨ Features
 
-✅ Daily rotating puzzles (based on system date)
-✅ Interactive virtual keyboard
-✅ Animated cell reveals
-✅ Winning celebration popup
-✅ Invalid word validation
-✅ Mobile-friendly responsive UI
-✅ Simple, fast, and open-source
+* Daily rotating puzzles (based on system date)
+* Interactive virtual keyboard
+* Animated cell reveals
+* Winning celebration popup
+* Invalid word validation
+* Mobile-friendly responsive UI
+* Simple, fast, and open-source
 
 ---
 
