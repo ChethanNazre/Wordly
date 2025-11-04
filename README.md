@@ -91,18 +91,11 @@ Then open **[http://localhost:3000](http://localhost:3000)** to play Wordly on y
 
 ---
 
-## 🎨 Visuals (optional)
-
-> *Coming soon: Demo screenshots or live site link*
-
----
-
 ## 🔮 Future Enhancements
 
 * 🌍 Global leaderboard integration
-* 🧩 Custom word modes
+* 🧩 Custom difficulty modes
 * 📱 Progressive Web App (PWA) support
-* 🗣️ Shareable result tiles (like OG Wordle)
 
 ---
 
